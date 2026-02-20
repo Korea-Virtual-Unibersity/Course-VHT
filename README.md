@@ -1,6 +1,6 @@
 # 버츄얼 호모토피타입이론
 
-* 교강사: @RanolP
+* 교강사: [@RanolP](https://github.com/RanolP)
 * 추천 수강 학년: 학부 4학년
 
 ## 차시별 강의
